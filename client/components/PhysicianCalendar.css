@@ -1,0 +1,29 @@
+.PhysiciansList {
+    margin-top: 3rem;
+}
+
+.Physician:hover {
+    background-color: aliceblue;
+}
+
+.PatientData {
+    margin: 1rem;
+}
+
+.SelectedPhysician {
+    font-size: 2rem;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+.CalendarContainer {
+    display: flex;
+    flex: 1;
+    margin: auto;
+    margin-top: 200px;
+    width: 600px;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+}
